@@ -1,24 +1,24 @@
 ::selection {
-  background: hotpink;
-  color: black;
+  background: purple;
+  color: lemonchiffon;
 }
 
 :root {
-  color: #ccc;
-  background: #111;
+  color: #213;
+  background: #ee9;
 }
 
 :link {
-  color: hotpink;
+  color: mediumblue;
 }
 
 :visited {
-  color: violet;
+  color: purple;
 }
 
 :focus {
   text-shadow:
-    -5px 0 0 plum,
-    3px 3px 0 plum,
-    3px -3px 0 plum;
+    -5px 0 0 purple,
+    3px 3px 0 purple,
+    3px -3px 0 purple;
 }

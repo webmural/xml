@@ -5,8 +5,8 @@ html {
 
 body {
   padding: 2vmin;
-  padding-inline-start: 5vw;
-  padding-inline-end: 0;
+  padding-inline-start: 10vw;
+  padding-inline-end: 1vw;
   margin: auto;
   overflow-wrap: anywhere;
 }
@@ -31,8 +31,12 @@ dd {
   margin: 0;
 }
 
-dd::first-letter {
-  font-weight: bold;
+dd:first-of-type {
+  margin-inline-start: -1ch;
+}
+
+dd b {
+  text-transform: uppercase;
 }
 
 :focus {

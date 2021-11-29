@@ -1,5 +1,4 @@
-# [formula](index.html)
+# [code](index.html)
 
-* [MathML](https://mdn.io/mathml)
-* [HTML](https://mdn.io/html)
-* [CSS](https://mdn.io/css)
+* [XML](https://webmural.com/xml) is an extensible spawn of [HTML](https://webmural.com/html)
+* got data?
